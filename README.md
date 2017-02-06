@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+# include <stdio.h>
+
+Hi Humans,
+
+M here, I just get in to this GitHub world. Journey just begin.
